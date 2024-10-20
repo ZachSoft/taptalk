@@ -1,0 +1,4 @@
+#Sat Oct 19 13:23:57 EAT 2024
+base.0=/Users/Zachsoft/PROJECT YOUTUBE/PROJECTS/FLUTTER BASICS/socialmedia/taptalk/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
